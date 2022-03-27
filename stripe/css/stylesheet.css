@@ -1,0 +1,282 @@
+.page{
+  font-family: arial;
+  font-size: 1.25rem;
+}
+p {
+  color: #94a7b8;
+  font-family: sans-serif ;
+}
+
+/*navbar*/
+.topsection{
+  background: linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89));
+}
+.navbar{
+  font-weight: bold;
+  margin: auto 10%;
+}
+.heading{
+  color: #fff;
+}
+#logo {
+  font-size: 2rem;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+#logo:hover {
+  color: gray;
+}
+.nav-item {
+  padding: 8px 16px ;
+}
+.phone{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+}
+.graph{
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+/*front page */
+#frontpage{
+  margin: auto 10%;
+  padding: 3% 0%;
+}
+.fa-angle-down{
+  padding: 5px;
+}
+.form-control{
+  margin-bottom: 5%;
+}
+​.graph{
+float:right;
+height:auto;
+}​
+.interner {
+  margin: 10%;
+}
+.infrastructure {
+  font-size: 3.5rem;
+  letter-spacing: -0.04em;
+  padding-top: 10%;
+  padding-bottom: 5%;
+  font-weight: 700;
+}
+.rocket {
+  text-align: right;
+  padding-right: 10% ;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 15px;
+  color: #fff;
+}
+.arrow {
+  border: solid #FFF;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  margin: 5px;
+}
+.form-inline{
+  margin: 0px;
+  width: 90%;
+}
+/*Second page */
+#second{
+  padding: 5% 0%;
+  margin: auto 7%;
+}
+.brands{
+  width: 100%;
+  height: 80%;
+  align-items: baseline;
+  padding: 10% 25%;
+}
+/*Third page */
+#third{
+  background-color: #f6f9fc;
+}
+.production{
+ padding-top: 10%;
+}
+#methods{
+  padding-bottom: 10%;
+  margin: auto 10%;
+  padding: auto 5%;
+}
+.Platform{
+  margin: auto 10%;
+  padding: auto 5%;
+}
+.heading{
+  color: #635bff;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+.main {
+  font-weight: 500;
+  font-weight: bold;
+  margin-bottom: 10%
+}
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+.fa-sm{
+  padding: 5px;
+}
+
+/*Payments topsection */
+.payments{
+  margin-top: 3%;
+  margin-bottom: 5%;
+}
+#designed{
+  padding: 10% 0%;
+  background-color: #0a2540;
+}
+.code{
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+#documents{
+  margin: auto 10%;
+}
+.paymentmethods{
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+.developers{
+  color: #00cef9;
+  font-weight: bold;
+}
+.world{
+  font-weight: 700;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin: 5% 0%;
+  color: #fff;
+}
+
+.docs{
+  color: #00cef9;
+}
+.documentation {
+  background-color: #00cef9 !important;
+  margin: 5% 0%;
+}
+.tools{
+  color: #00cef9 !important;
+}
+.integrations{
+  padding-top: 50px;
+}
+.prebuild{
+  font-weight: bold;
+  font-weight: 700;
+  font-family: arial;
+  color: #fff;
+}
+
+/*why stripe section */
+.technology{
+ padding: 5% 0%;
+ margin: auto 10%;
+}
+.reliabulity{
+ margin: 5% auto;
+}
+.why{
+  color: #635bff;
+  padding: 3% 0%;
+  font-weight: bold;
+}
+.approch{
+  font-weight: bold;
+  font-weight: 700;
+  font-family: arial;
+}
+
+/*Global section */
+.globalscale{
+  background-color:  #0a2540;
+}
+.business{
+  margin: auto 10%;
+  padding: 3% 0%;
+  font-size: 1.25rem;
+  color: #fff;
+}
+.global{
+ color: #00cef9;
+ padding-top: 15%;
+}
+.Startups{
+  color: #00cef9;
+}
+.ambitious{
+  padding: 3% 0%;
+}
+.backbone{
+  padding: 3% 0%;
+}
+
+/*Get started section */
+.getstarted{
+  margin: auto 10%;
+  padding: 5% 0%;
+}
+.started{
+  font-weight: bold;
+  padding-right: 10%;
+  padding-top: 5%;
+}
+.explore{
+  padding-right: 15%;
+}
+.contact{
+  color: #6c65ff !important;
+}
+.start{
+  padding-top: 5%;
+}
+.pay{
+  font-weight: bold;
+  color: #000;
+}
+/* Footer section */
+.bottom{
+  background-color: #f6f9fc;
+}
+.fa-location-arrow{
+  padding-right: 5px;
+}
+.fa-comment{
+  padding-right: 5px;
+}
+.footer{
+  padding: 10% 0%;
+  margin: auto 10%;
+}
+.tags{
+  font-weight: bold;
+  margin-top: 20px;
+}
+.objects{
+  padding: 0px;
+  border: 0px;
+  margin: 4px 0px;
+  color: #4b5f74;
+}
+.objects:hover{
+  color: #0a2510;
+}
